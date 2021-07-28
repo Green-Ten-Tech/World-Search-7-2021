@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="World_Search_7_2021.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Homepage" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">https://bing.com</Value>
+    </Setting>
+    <Setting Name="Search" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">https://www.bing.com/search?q=</Value>
+    </Setting>
+    <Setting Name="WebPageTitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bing</Value>
+    </Setting>
+    <Setting Name="FormBackround" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="TextColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="ButtonColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="FontStyle" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Microsoft Sans Serif, 15.75pt, style=Bold, Italic</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
